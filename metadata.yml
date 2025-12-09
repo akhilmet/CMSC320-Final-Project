@@ -1,0 +1,22 @@
+---
+:id: 363498483
+:submitters:
+- :name: Anitej Suklikar
+  :email: asuklika@terpmail.umd.edu
+- :name: Joshua John
+  :email: joshjohn@terpmail.umd.edu
+- :name: Akhil Metukuru
+  :email: amet@terpmail.umd.edu
+- :name: Sohum Desai
+  :email: sdesai10@terpmail.umd.edu
+- :name: Purab Shah
+  :email: pshah116@terpmail.umd.edu
+- :name: Sashvad Satish Kumar
+  :email: sskumar@terpmail.umd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-10-28 20:41:24.131058000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-10-28 13:41:24.131058000 Z
+:status: processed
+:score: 25.0
